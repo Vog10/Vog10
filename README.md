@@ -46,4 +46,6 @@
 
     🖱️ [ChessGameSystem](https://github.com/Vog10/Chess-Game-System-Project)<br/>
 
+Acredito através da tecnologia podemos transformar vidas!
+
 Vambaster Oliveira Gomes "Vog".
