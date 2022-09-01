@@ -48,7 +48,7 @@
     
  ## 🔗 Minhas resoluções de exercicios no beecrowd
 
-    🖱️ [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/517855)<br/>
+    - 🖱️[Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/517855)<br/>
 
 
 Acredito que através da tecnologia podemos transformar vidas!
