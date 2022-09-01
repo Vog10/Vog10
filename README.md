@@ -45,7 +45,12 @@
 - Sistema de jogo em Xadrez:
 
     🖱️ [ChessGameSystem](https://github.com/Vog10/Chess-Game-System-Project)<br/>
+    
+ ## 🔗 Minhas resoluções de exercicios no beecrowd
 
-Acredito através da tecnologia podemos transformar vidas!
+    🖱️ [beecrowd](https://www.beecrowd.com.br/judge/pt/profile/517855)<br/>
+
+
+Acredito que através da tecnologia podemos transformar vidas!
 
 Vambaster Oliveira Gomes "Vog".
