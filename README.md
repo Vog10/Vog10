@@ -38,7 +38,7 @@
 
 - App Web Desenvolvido para avaliação de filmes:
 
-    🖱️ [Vmovie](https://vogmeta.netlify.app)<br/>
+    🖱️ [Vmovie](https://vogdsmovie.netlify.app/)<br/>
 
 - Sistema de jogo em Xadrez:
 
